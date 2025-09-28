@@ -1,7 +1,7 @@
 # 🚗 ChuuChuuRide  
 **Reinventing the Way Students Commute**  
 Name of Team: **StudentsHelpingStudents**
-URL: 
+URL: https://chuuchuuride-shellhacksproject-649370321789.us-west1.run.app/
 
 ---
 
